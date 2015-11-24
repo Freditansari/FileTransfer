@@ -1,0 +1,8 @@
+C:\Users\fredy\documents\visual studio 2012\Projects\FileTransfer\FileTransfer\bin\FileTransfer.dll
+C:\Users\fredy\documents\visual studio 2012\Projects\FileTransfer\FileTransfer\bin\FileTransfer.pdb
+C:\Users\fredy\documents\visual studio 2012\Projects\FileTransfer\FileTransfer\bin\Telerik.Web.UI.dll
+C:\Users\fredy\documents\visual studio 2012\Projects\FileTransfer\FileTransfer\bin\Telerik.Web.UI.xml
+C:\Users\fredy\documents\visual studio 2012\Projects\FileTransfer\FileTransfer\obj\Debug\FileTransfer.csprojResolveAssemblyReference.cache
+C:\Users\fredy\documents\visual studio 2012\Projects\FileTransfer\FileTransfer\obj\Debug\FileTransfer.dll.licenses
+C:\Users\fredy\documents\visual studio 2012\Projects\FileTransfer\FileTransfer\obj\Debug\FileTransfer.dll
+C:\Users\fredy\documents\visual studio 2012\Projects\FileTransfer\FileTransfer\obj\Debug\FileTransfer.pdb
